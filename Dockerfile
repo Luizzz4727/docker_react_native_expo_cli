@@ -4,4 +4,4 @@ WORKDIR /app
 
 RUN npm install -g expo-cli@5.4.4
 
-CMD ["expo", "start", "--web"]
+CMD ["expo", "start"]
